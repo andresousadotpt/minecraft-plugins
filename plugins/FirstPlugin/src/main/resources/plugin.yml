@@ -1,0 +1,4 @@
+name: Firstplugin
+version: '${project.version}'
+main: pt.andresousa.firstplugin.Firstplugin
+api-version: '1.20'
