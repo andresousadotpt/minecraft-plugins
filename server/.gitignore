@@ -2,3 +2,9 @@ cache
 logs
 libraries
 versions
+world
+world_*
+/world
+/world_*
+plugins/*
+!/plugins/*.jar
